@@ -1,4 +1,4 @@
-# Wanderlust Clone
+# Wanderlust
 
 A full-stack Express.js application that models a vacation rental platform with user authentication, listing management, reviews, image uploads to Cloudinary, and MongoDB persistence.
 
