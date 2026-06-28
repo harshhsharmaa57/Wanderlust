@@ -1,4 +1,4 @@
-# AirBnb Clone
+# Wanderlust Clone
 
 A full-stack Express.js application that models a vacation rental platform with user authentication, listing management, reviews, image uploads to Cloudinary, and MongoDB persistence.
 
@@ -29,7 +29,7 @@ A full-stack Express.js application that models a vacation rental platform with 
 
 ## Project Overview
 
-This repository contains an Airbnb-like rental listings application built with Express.js and MongoDB. Users can register, log in, create and manage listings, upload photos, and leave reviews for listings.
+This repository contains an Wanderlust-like rental listings application built with Express.js and MongoDB. Users can register, log in, create and manage listings, upload photos, and leave reviews for listings.
 
 ## Features
 
@@ -69,7 +69,7 @@ This repository contains an Airbnb-like rental listings application built with E
 
 ```bash
 git clone <repo-url>
-cd AirBnb
+cd Wanderlust
 ```
 
 2. Install dependencies:
